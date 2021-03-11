@@ -1,0 +1,7 @@
+C:\Users\levid\source\repos\TargilMesakemQ.7\TargilMesakemQ.7\bin\Debug\TargilMesakemQ.7.exe.config
+C:\Users\levid\source\repos\TargilMesakemQ.7\TargilMesakemQ.7\bin\Debug\TargilMesakemQ.7.exe
+C:\Users\levid\source\repos\TargilMesakemQ.7\TargilMesakemQ.7\bin\Debug\TargilMesakemQ.7.pdb
+C:\Users\levid\source\repos\TargilMesakemQ.7\TargilMesakemQ.7\obj\Debug\TargilMesakemQ.7.csprojAssemblyReference.cache
+C:\Users\levid\source\repos\TargilMesakemQ.7\TargilMesakemQ.7\obj\Debug\TargilMesakemQ.7.csproj.CoreCompileInputs.cache
+C:\Users\levid\source\repos\TargilMesakemQ.7\TargilMesakemQ.7\obj\Debug\TargilMesakemQ.7.exe
+C:\Users\levid\source\repos\TargilMesakemQ.7\TargilMesakemQ.7\obj\Debug\TargilMesakemQ.7.pdb
