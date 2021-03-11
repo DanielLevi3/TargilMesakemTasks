@@ -1,0 +1,7 @@
+C:\Users\levid\source\repos\TargilMesakemMultiThreaded\TargilMesakemMultiThreaded\bin\Debug\TargilMesakemMultiThreaded.exe.config
+C:\Users\levid\source\repos\TargilMesakemMultiThreaded\TargilMesakemMultiThreaded\bin\Debug\TargilMesakemMultiThreaded.exe
+C:\Users\levid\source\repos\TargilMesakemMultiThreaded\TargilMesakemMultiThreaded\bin\Debug\TargilMesakemMultiThreaded.pdb
+C:\Users\levid\source\repos\TargilMesakemMultiThreaded\TargilMesakemMultiThreaded\obj\Debug\TargilMesakemMultiThreaded.csprojAssemblyReference.cache
+C:\Users\levid\source\repos\TargilMesakemMultiThreaded\TargilMesakemMultiThreaded\obj\Debug\TargilMesakemMultiThreaded.csproj.CoreCompileInputs.cache
+C:\Users\levid\source\repos\TargilMesakemMultiThreaded\TargilMesakemMultiThreaded\obj\Debug\TargilMesakemMultiThreaded.exe
+C:\Users\levid\source\repos\TargilMesakemMultiThreaded\TargilMesakemMultiThreaded\obj\Debug\TargilMesakemMultiThreaded.pdb
